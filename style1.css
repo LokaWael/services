@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lemonada|Reem+Kufi&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lemonada:300,400,600,700&subset=arabic,latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa:400,700&subset=arabic');
+@import url('https://fonts.googleapis.com/css?family=Mada:200,300,400,500,600,700,900&subset=arabic');
+@import url('https://fonts.googleapis.com/css?family=Harmattan&subset=arabic');
+@import url('https://fonts.googleapis.com/css?family=Cairo:200,300,400,600,700,900&subset=arabic,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Harmattan&subset=arabic');
+@import url('https://fonts.googleapis.com/css?family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Markazi+Text:400,500,600,700&subset=arabic,latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Tajawal:200,300,400,500,700,800,900&subset=arabic');
+body{
+    direction: rtl;
+    margin-top:0px;
+    margin-right: 0px;
+    margin-left:0px;
+    background-image: url("https://canddmovingservice.com/files/2014/04/boxes-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+    margin-top:0px;
+    background-attachment: fixed;
+}
+.p1{
+    display: inline-block;
+    background-color:#FFFFFF;
+    border: 1px solid black;
+    width:100%;
+    margin-bottom:0px;
+    display:inline-block;
+    box-shadow: 5px 5px 5px #000000;
+    
+}
+.p1 img{
+    float:right;
+    width:120px;
+    height:80px;
+    padding-top:5px;
+}
+.p1 p{
+    display: inline-block;
+}
+ul{
+    float:left;
+    display: inline-block;
+}
+li{
+    float:left;
+    display:inline-block;
+    padding:5px;
+    font-size: 15px;
+}
+.main{
+   
+}
+.main11{
+    background-color:rgba(0,0,0,0.7);
+    text-align: center;
+    margin:auto;
+    font-size:35px;
+    color:white;
+    width:500px;
+    font-family: 'Harmattan', sans-serif;
+    margin-top:80px;
+    border-radius: 10px;
+}
+#p3{
+    background-color: white;
+    color:black;
+}
+#pp{
+    font-size:50px;
+    font-family: 'El Messiri', sans-serif; 
+    margin-bottom:10px;
+    margin-top:5px;
+}
+#pp1{
+    font-size: 25px;
+  font-family: 'Tajawal', sans-serif;
+}
+.p1 ul{
+    text-align: center;
+    margin-left:40px;
+    margin-top:20px;
+}
+.p1 a{
+    margin:auto;
+    text-decoration: none;
+    color:black;
+    padding:10px;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+}
+.p1 a:hover{
+    border-bottom: 1px solid black;
+}
+.main2{
+    background-color:white;
+    width:100%;
+    text-align: center;
+    margin:auto;
+    display:inline-block;
+    box-shadow: 5px 5px 5px #000000;
+    padding:10px;
+}
+.main2 .m22{
+    width:300px;
+    text-align: center;
+    margin:auto;
+    display:inline-block;
+    margin-left:25px;
+    box-shadow: 5px 5px 5px #000000;
+    border-radius: 5px;
+    background-color:gainsboro;
+    padding:10px;
+}
+.main2 .m222{
+    width:300px;
+    text-align: center;
+    margin:auto;
+    display:inline-block;
+    box-shadow: 5px 5px 5px #000000;
+    border-radius: 5px;
+    background-color:gainsboro;
+    padding:10px;
+}
+.main2 img{
+    height: 200px;
+    width:200px;
+    border-radius: 10px;
+}
+#h4{
+    font-family: 'Tajawal', sans-serif;
+    font-size:20px;
+}
+#or{
+    margin-top:0px;
+    margin-bottom:0px;
+}
